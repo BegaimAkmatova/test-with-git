@@ -6,6 +6,7 @@ function App() {
       <input type="text" />
       <button>Save</button>
       <button>Удалить</button>
+      <input type="text" name="" id="" />
     </div>
   );
 }
